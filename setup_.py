@@ -6,7 +6,7 @@ POST_LIST = PostList([])
 DATES_OF_POSTS = {}
 
 USERNAME = "tensorrandos"
-PASSWORD = "dp&*eAcpeQ?/7#9"
+PASSWORD = "yourpasswordhere"
 
 DAYS_MAP = {
     0: 'monday',
